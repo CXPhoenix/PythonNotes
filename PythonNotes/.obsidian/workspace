@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "95c0f928ce314ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73e457d762e3e79",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python 程式筆記-條件選擇.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd67bb2066001bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4bcdf9def243ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f60810340516ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75da1ab7a364c2e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45505bc3be6c05b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aebd85221e10871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8fc3af0c688be0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python 程式筆記-條件選擇.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Python 程式筆記-條件選擇.md",
+    "Python 程式筆記.md",
+    "Python 程式筆記-變數.md",
+    "Python 程式筆記-賦予assign.md",
+    "Python 程式筆記-資料型態.md",
+    "Untitled.md"
+  ]
+}
